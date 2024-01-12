@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/ELSheadali/MyProject",
-  "name": "Website",
+  "name": "website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
