@@ -4,6 +4,7 @@ const sizeClasses = {
   txtRubikGlitchRegular56: "font-normal font-rubikglitch",
   txtBalooRegular24: "font-normal font-baloo ",
   txtBalooTammaRegular24: "font-normal font-balootamma",
+  txtBalooRegular8: "font-normal font-baloo",
 } as const;
 
 export type TextProps = Partial<{
